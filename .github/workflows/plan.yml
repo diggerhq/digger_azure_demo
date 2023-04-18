@@ -36,4 +36,4 @@ jobs:
           DIGGER_AZURE_TENANT_ID: ${{ secrets.DIGGER_AZURE_TENANT_ID }}
           DIGGER_AZURE_CLIENT_ID: ${{ secrets.DIGGER_AZURE_CLIENT_ID }}
           DIGGER_AZURE_CLIENT_SECRET: ${{ secrets.DIGGER_AZURE_CLIENT_SECRET }}
-          DIGGER_AZURE_SA_NAME: diggertest_1681819683557
+          DIGGER_AZURE_SA_NAME: diggertest
